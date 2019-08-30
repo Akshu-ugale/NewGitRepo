@@ -1,0 +1,33 @@
+node{
+    
+    stage('Svn checkout')
+    {
+        checkout([$class: 'SubversionSCM', 
+          additionalCredentials: [], 
+          excludedCommitMessages: '', 
+          excludedRegions: '', 
+          excludedRevprop: '', 
+          excludedUsers: '', 
+          filterChangelog: false, 
+          ignoreDirPropChanges: false, 
+          includedRegions: '', 
+          locations: [[credentialsId: 'fba7b58b-59d3-4e04-bb28-e6165f915241', 
+                       depthOption: 'infinity', 
+                       ignoreExternalsOption: true, 
+                       local: 'cable_branch']])
+    }
+    
+    stage('Build Image'){
+        echo "Build Image"  
+  }
+    
+    stage('Test Image'){
+          sh'echo"Tests Passed"'
+    }
+    
+    stage('Push Image'){
+        echo "Push Image"
+    }
+}
+
+
