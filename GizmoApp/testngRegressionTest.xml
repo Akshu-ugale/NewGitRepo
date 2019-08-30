@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+
+<suite name="GizmoAppSuit2" verbose="1" > 
+
+  <test name="Regression" > 
+
+    <classes> 
+		<class name="com.org.learningMaven.GizmoApplication" />    
+    </classes> 
+
+  </test> 
+ 
+ </suite>

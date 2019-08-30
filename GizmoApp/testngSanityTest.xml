@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+
+<suite name="GizmoAppSuit3" verbose="1" > 
+
+  <test name="Sanity" > 
+
+    <classes> 
+		<class name="com.org.learningMaven.sanityTests" />
+    </classes> 
+
+  </test> 
+ 
+ </suite>

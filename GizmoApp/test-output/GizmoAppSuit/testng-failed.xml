@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GizmoAppSuit]" guice-stage="DEVELOPMENT">
+  <test name="Gizmo">
+    <classes>
+      <class name="com.org.learningMaven.smokeTests"/>
+      <class name="com.org.learningMaven.GizmoApplication"/>
+      <class name="com.org.learningMaven.sanityTests"/>
+    </classes>
+  </test> <!-- Gizmo -->
+</suite> <!-- Failed suite [GizmoAppSuit] -->

@@ -1,0 +1,10 @@
+FROM https://192.168.192.143/svn/DevOps/MavenGizmoWeb3
+MAINTAINER Akshada-Sonal
+RUN apt-get update
+RUN apt-get install -maven
+COPY pom.xml /https://192.168.192.143/svn/DevOps/MavenGizmoWeb3/pom.xml
+COPY src /https://192.168.192.143/svn/DevOps/MavenGizmoWeb3/src/
+WORKDIR /https://192.168.192.143/svn/DevOps/MavenGizmoWeb3
+RUN mvn package
+CMD ["java","_cp","target/docker-service.0.0.1-SNAPSHOT.jar","OrgSqs.MavenGizmoWeb3"] 
+

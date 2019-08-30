@@ -1,0 +1,275 @@
+DEBUG   2017-11-30 11:49:34,896 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - Upload file servlet here: Game name::>demo
+DEBUG   2017-11-30 11:49:34,898 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - Upload file servlet: versionName name::>v1.1.0
+DEBUG   2017-11-30 11:49:34,898 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - Upload file servlet: alpha name::>0.01
+DEBUG   2017-11-30 11:49:34,898 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - numberType::>replacement
+DEBUG   2017-11-30 11:49:34,898 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - Upload file servlet: numbersPerDraw name::>
+DEBUG   2017-11-30 11:49:34,914 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - Upload file servlet: testName name::>[Ljava.lang.String;@12fcc5c2
+DEBUG   2017-11-30 11:49:38,725 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.InputBaseData  - size of converted array of scaled data is:Input base data::>3000000
+DEBUG   2017-11-30 11:49:38,745 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.InputBaseData  - Input base data - min array::>1.0
+DEBUG   2017-11-30 11:49:38,745 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.InputBaseData  - Input base data - max array::>52.0
+DEBUG   2017-11-30 11:49:38,745 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.InputBaseData  - In interpretScaledData of Inputbasedata
+DEBUG   2017-11-30 11:49:38,745 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.ChiSquareGizmoTest  - Here in chi-square test
+DEBUG   2017-11-30 11:49:38,745 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.ChiSquareGizmoTest  - alpha_level::>0.01
+DEBUG   2017-11-30 11:49:38,769 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.ChiSquareGizmoTest  - total numbers::>52
+DEBUG   2017-11-30 11:49:38,769 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.ChiSquareGizmoTest  - numbers length::>3000000
+DEBUG   2017-11-30 11:49:38,781 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.ChiSquareGizmoTest  - Sum Chi-square::>68.2970613333333
+DEBUG   2017-11-30 11:49:38,833 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.ChiSquareGizmoTest  - p_value::>0.05320593962483133
+DEBUG   2017-11-30 11:49:38,837 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - Here in Runs up runs down test
+DEBUG   2017-11-30 11:49:38,837 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - alpha_level0.01
+DEBUG   2017-11-30 11:49:38,898 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - In calculate number of runs:
+DEBUG   2017-11-30 11:49:38,899 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - totalNumberOfRuns:1999427.0
+DEBUG   2017-11-30 11:49:38,899 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - scaled data size3000000.0
+DEBUG   2017-11-30 11:49:38,899 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - mean:1999999.6666666667
+DEBUG   2017-11-30 11:49:38,899 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - sigma_square533333.0111111111
+DEBUG   2017-11-30 11:49:38,899 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - Z_score:-0.7841563650422735
+DEBUG   2017-11-30 11:49:38,899 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - In interpretResult of runs up and runs down
+DEBUG   2017-11-30 11:49:39,265 [http-nio-0.0.0.0-8090-exec-8] graphs.GraphResult  - In Graph Result - Result from tests received::>18
+DEBUG   2017-11-30 11:49:39,269 [http-nio-0.0.0.0-8090-exec-8] graphs.GraphResult  - Pass test::>2
+DEBUG   2017-11-30 11:49:39,269 [http-nio-0.0.0.0-8090-exec-8] graphs.GraphResult  - Fail test::>0
+DEBUG   2017-11-30 11:49:39,269 [http-nio-0.0.0.0-8090-exec-8] graphs.GraphResult  - Not run test::>16
+DEBUG   2017-11-30 12:02:26,987 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - Upload file servlet here: Game name::>demo
+DEBUG   2017-11-30 12:02:26,987 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - Upload file servlet: versionName name::>v1.1.0
+DEBUG   2017-11-30 12:02:26,987 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - Upload file servlet: alpha name::>0.01
+DEBUG   2017-11-30 12:02:26,987 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - numberType::>replacement
+DEBUG   2017-11-30 12:02:26,987 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - Upload file servlet: numbersPerDraw name::>
+DEBUG   2017-11-30 12:02:27,003 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - Upload file servlet: testName name::>[Ljava.lang.String;@3bb1405
+DEBUG   2017-11-30 12:02:30,097 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.InputBaseData  - size of converted array of scaled data is:Input base data::>3000000
+DEBUG   2017-11-30 12:02:30,101 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.InputBaseData  - Input base data - min array::>1.0
+DEBUG   2017-11-30 12:02:30,101 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.InputBaseData  - Input base data - max array::>52.0
+DEBUG   2017-11-30 12:02:30,101 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.InputBaseData  - In interpretScaledData of Inputbasedata
+DEBUG   2017-11-30 12:02:30,101 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.ChiSquareGizmoTest  - Here in chi-square test
+DEBUG   2017-11-30 12:02:30,101 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.ChiSquareGizmoTest  - alpha_level::>0.01
+DEBUG   2017-11-30 12:02:30,117 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.ChiSquareGizmoTest  - total numbers::>52
+DEBUG   2017-11-30 12:02:30,117 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.ChiSquareGizmoTest  - numbers length::>3000000
+DEBUG   2017-11-30 12:02:30,117 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.ChiSquareGizmoTest  - Sum Chi-square::>68.2970613333333
+DEBUG   2017-11-30 12:02:30,117 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.ChiSquareGizmoTest  - p_value::>0.05320593962483133
+DEBUG   2017-11-30 12:02:30,117 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.RunsUpRunsDownTest  - Here in Runs up runs down test
+DEBUG   2017-11-30 12:02:30,117 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.RunsUpRunsDownTest  - alpha_level0.01
+DEBUG   2017-11-30 12:02:30,158 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.RunsUpRunsDownTest  - In calculate number of runs:
+DEBUG   2017-11-30 12:02:30,158 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.RunsUpRunsDownTest  - totalNumberOfRuns:1999426.0
+DEBUG   2017-11-30 12:02:30,158 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.RunsUpRunsDownTest  - scaled data size3000000.0
+DEBUG   2017-11-30 12:02:30,158 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.RunsUpRunsDownTest  - mean:1999999.6666666667
+DEBUG   2017-11-30 12:02:30,158 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.RunsUpRunsDownTest  - sigma_square533333.0111111111
+DEBUG   2017-11-30 12:02:30,158 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.RunsUpRunsDownTest  - Z_score:-0.7855256718496813
+DEBUG   2017-11-30 12:02:30,162 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.RunsUpRunsDownTest  - In interpretResult of runs up and runs down
+DEBUG   2017-11-30 12:02:30,189 [http-nio-0.0.0.0-8090-exec-3] graphs.GraphResult  - In Graph Result - Result from tests received::>18
+DEBUG   2017-11-30 12:02:30,189 [http-nio-0.0.0.0-8090-exec-3] graphs.GraphResult  - Pass test::>2
+DEBUG   2017-11-30 12:02:30,189 [http-nio-0.0.0.0-8090-exec-3] graphs.GraphResult  - Fail test::>0
+DEBUG   2017-11-30 12:02:30,189 [http-nio-0.0.0.0-8090-exec-3] graphs.GraphResult  - Not run test::>16
+DEBUG   2017-11-30 12:03:09,703 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - Upload file servlet here: Game name::>demo
+DEBUG   2017-11-30 12:03:09,703 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - Upload file servlet: versionName name::>v1.1.0
+DEBUG   2017-11-30 12:03:09,703 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - Upload file servlet: alpha name::>0.01
+DEBUG   2017-11-30 12:03:09,703 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - numberType::>replacement
+DEBUG   2017-11-30 12:03:09,703 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - Upload file servlet: numbersPerDraw name::>
+DEBUG   2017-11-30 12:03:09,719 [http-nio-0.0.0.0-8090-exec-7] upload.UploadFileServlet  - Upload file servlet: testName name::>[Ljava.lang.String;@95d1e01
+DEBUG   2017-11-30 12:03:12,644 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.InputBaseData  - size of converted array of scaled data is:Input base data::>3000000
+DEBUG   2017-11-30 12:03:12,648 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.InputBaseData  - Input base data - min array::>1.0
+DEBUG   2017-11-30 12:03:12,648 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.InputBaseData  - Input base data - max array::>52.0
+DEBUG   2017-11-30 12:03:12,648 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.InputBaseData  - In interpretScaledData of Inputbasedata
+DEBUG   2017-11-30 12:03:12,648 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - Here in Runs up runs down test
+DEBUG   2017-11-30 12:03:12,648 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - alpha_level0.01
+DEBUG   2017-11-30 12:03:12,672 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - In calculate number of runs:
+DEBUG   2017-11-30 12:03:12,672 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - totalNumberOfRuns:1999426.0
+DEBUG   2017-11-30 12:03:12,672 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - scaled data size3000000.0
+DEBUG   2017-11-30 12:03:12,672 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - mean:1999999.6666666667
+DEBUG   2017-11-30 12:03:12,672 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - sigma_square533333.0111111111
+DEBUG   2017-11-30 12:03:12,672 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - Z_score:-0.7855256718496813
+DEBUG   2017-11-30 12:03:12,672 [http-nio-0.0.0.0-8090-exec-7] scaleddatamathstests.RunsUpRunsDownTest  - In interpretResult of runs up and runs down
+DEBUG   2017-11-30 12:03:12,776 [http-nio-0.0.0.0-8090-exec-8] graphs.GraphResult  - In Graph Result - Result from tests received::>18
+DEBUG   2017-11-30 12:03:12,776 [http-nio-0.0.0.0-8090-exec-8] graphs.GraphResult  - Pass test::>1
+DEBUG   2017-11-30 12:03:12,776 [http-nio-0.0.0.0-8090-exec-8] graphs.GraphResult  - Fail test::>0
+DEBUG   2017-11-30 12:03:12,776 [http-nio-0.0.0.0-8090-exec-8] graphs.GraphResult  - Not run test::>17
+DEBUG   2017-12-06 10:29:14,010 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - Upload file servlet here: Game name::>fd
+DEBUG   2017-12-06 10:29:14,013 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - Upload file servlet: versionName name::>v1.1.0
+DEBUG   2017-12-06 10:29:14,013 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - Upload file servlet: alpha name::>0.01
+DEBUG   2017-12-06 10:29:14,013 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - numberType::>replacement
+DEBUG   2017-12-06 10:29:14,014 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - Upload file servlet: numbersPerDraw name::>
+DEBUG   2017-12-06 10:29:14,015 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - Upload file servlet: testName name::>[Ljava.lang.String;@1fbf7008
+DEBUG   2017-12-06 10:29:14,432 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.InputBaseData  - size of converted array of scaled data is:Input base data::>20
+DEBUG   2017-12-06 10:29:14,432 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.InputBaseData  - Input base data - min array::>1.0
+DEBUG   2017-12-06 10:29:14,432 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.InputBaseData  - Input base data - max array::>5.0
+DEBUG   2017-12-06 10:29:14,432 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.InputBaseData  - In interpretScaledData of Inputbasedata
+DEBUG   2017-12-06 10:29:14,432 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.ChiSquareGizmoTest  - Here in chi-square test
+DEBUG   2017-12-06 10:29:14,433 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.ChiSquareGizmoTest  - alpha_level::>0.01
+DEBUG   2017-12-06 10:29:14,433 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.ChiSquareGizmoTest  - total numbers::>5
+DEBUG   2017-12-06 10:29:14,433 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.ChiSquareGizmoTest  - numbers length::>20
+DEBUG   2017-12-06 10:29:14,444 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.ChiSquareGizmoTest  - Sum Chi-square::>3.5
+DEBUG   2017-12-06 10:29:14,480 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.ChiSquareGizmoTest  - p_value::>0.47787834448872446
+DEBUG   2017-12-06 10:29:14,481 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.CollisionTest  - Here in Collision Test
+DEBUG   2017-12-06 10:29:14,481 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.CollisionTest  - alpha_level::>0.01
+DEBUG   2017-12-06 10:29:14,481 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.CollisionTest  - d::>5
+DEBUG   2017-12-06 10:29:14,481 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.CollisionTest  - m::>5
+DEBUG   2017-12-06 10:29:14,769 [http-nio-0.0.0.0-8090-exec-9] graphs.GraphResult  - In Graph Result - Result from tests received::>18
+DEBUG   2017-12-06 10:29:14,770 [http-nio-0.0.0.0-8090-exec-9] graphs.GraphResult  - Pass test::>1
+DEBUG   2017-12-06 10:29:14,770 [http-nio-0.0.0.0-8090-exec-9] graphs.GraphResult  - Fail test::>0
+DEBUG   2017-12-06 10:29:14,770 [http-nio-0.0.0.0-8090-exec-9] graphs.GraphResult  - Not run test::>17
+DEBUG   2017-12-06 10:30:19,357 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet here: Game name::>fd
+DEBUG   2017-12-06 10:30:19,357 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: versionName name::>v1.1.0
+DEBUG   2017-12-06 10:30:19,357 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: alpha name::>0.01
+DEBUG   2017-12-06 10:30:19,358 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - numberType::>replacement
+DEBUG   2017-12-06 10:30:19,358 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: numbersPerDraw name::>
+DEBUG   2017-12-06 10:30:19,359 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: testName name::>[Ljava.lang.String;@4bc839da
+DEBUG   2017-12-06 10:30:19,415 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - size of converted array of scaled data is:Input base data::>20
+DEBUG   2017-12-06 10:30:19,416 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - Input base data - min array::>1.0
+DEBUG   2017-12-06 10:30:19,416 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - Input base data - max array::>5.0
+DEBUG   2017-12-06 10:30:19,417 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - In interpretScaledData of Inputbasedata
+DEBUG   2017-12-06 10:30:19,417 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - Here in chi-square test
+DEBUG   2017-12-06 10:30:19,417 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - alpha_level::>0.01
+DEBUG   2017-12-06 10:30:19,417 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - total numbers::>5
+DEBUG   2017-12-06 10:30:19,417 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - numbers length::>20
+DEBUG   2017-12-06 10:30:19,417 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - Sum Chi-square::>3.5
+DEBUG   2017-12-06 10:30:19,417 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - p_value::>0.47787834448872446
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - Here in Runs up runs down test
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - alpha_level0.01
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - In calculate number of runs:
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - totalNumberOfRuns:14.0
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - scaled data size20.0
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - mean:13.0
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - sigma_square3.2333333333333334
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - Z_score:0.5561279983200486
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - In interpretResult of runs up and runs down
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.SerialTest  - Here in serial test
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.SerialTest  - alpha_level::>0.01
+DEBUG   2017-12-06 10:30:19,418 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.SerialTest  - min array::>1.0
+DEBUG   2017-12-06 10:30:19,419 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.SerialTest  - max array::>5.0
+DEBUG   2017-12-06 10:30:19,441 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - In Graph Result - Result from tests received::>18
+DEBUG   2017-12-06 10:30:19,442 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - Pass test::>2
+DEBUG   2017-12-06 10:30:19,442 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - Fail test::>0
+DEBUG   2017-12-06 10:30:19,442 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - Not run test::>16
+DEBUG   2017-12-06 10:40:45,492 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - Upload file servlet here: Game name::>fd
+DEBUG   2017-12-06 10:40:45,493 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - Upload file servlet: versionName name::>v1.1.0
+DEBUG   2017-12-06 10:40:45,493 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - Upload file servlet: alpha name::>0.01
+DEBUG   2017-12-06 10:40:45,494 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - numberType::>replacement
+DEBUG   2017-12-06 10:40:45,494 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - Upload file servlet: numbersPerDraw name::>
+DEBUG   2017-12-06 10:40:45,495 [http-nio-0.0.0.0-8090-exec-8] upload.UploadFileServlet  - Upload file servlet: testName name::>[Ljava.lang.String;@7ddb8440
+DEBUG   2017-12-06 10:40:45,658 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.InputBaseData  - size of converted array of scaled data is:Input base data::>20
+DEBUG   2017-12-06 10:40:45,659 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.InputBaseData  - Input base data - min array::>1.0
+DEBUG   2017-12-06 10:40:45,659 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.InputBaseData  - Input base data - max array::>5.0
+DEBUG   2017-12-06 10:40:45,659 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.InputBaseData  - In interpretScaledData of Inputbasedata
+DEBUG   2017-12-06 10:40:45,660 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.SerialCorrelationTest  - Here in serial correlation test
+DEBUG   2017-12-06 10:40:45,660 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.SerialCorrelationTest  - FilePathUpload of serialCorrelationTest::>C:/Program Files/Apache Software Foundation/Tomcat 9.0/webapps/SQS_Gizmo_RNG/inputfiles/trainingDemo2.txt
+DEBUG   2017-12-06 10:40:45,661 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.SerialCorrelationTest  - here in interpretdata value of line14
+DEBUG   2017-12-06 10:40:45,661 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.SerialCorrelationTest  - filepathC:/Program Files/Apache Software Foundation/Tomcat 9.0/webapps/SQS_Gizmo_RNG/inputfiles/trainingDemo2.txt
+DEBUG   2017-12-06 10:40:45,662 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.SerialCorrelationTest  - In calculationsSerialCorrelationTest : r::>0.29936898871791734
+DEBUG   2017-12-06 10:40:45,662 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.SerialCorrelationTest  - In calculationsSerialCorrelationTest : number_of_samples::>10.0
+DEBUG   2017-12-06 10:40:45,716 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.SerialCorrelationTest  - result of correlation coefficient:0.299368988717917
+DEBUG   2017-12-06 10:40:45,716 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.SerialCorrelationTest  - result of serialCorrelationTest:Pass
+DEBUG   2017-12-06 10:40:45,716 [http-nio-0.0.0.0-8090-exec-8] scaleddatamathstests.InputBaseData  - here in input base data : serial correlation test function
+DEBUG   2017-12-06 10:40:45,751 [http-nio-0.0.0.0-8090-exec-9] graphs.GraphResult  - In Graph Result - Result from tests received::>18
+DEBUG   2017-12-06 10:40:45,752 [http-nio-0.0.0.0-8090-exec-9] graphs.GraphResult  - Pass test::>1
+DEBUG   2017-12-06 10:40:45,753 [http-nio-0.0.0.0-8090-exec-9] graphs.GraphResult  - Fail test::>0
+DEBUG   2017-12-06 10:40:45,753 [http-nio-0.0.0.0-8090-exec-9] graphs.GraphResult  - Not run test::>17
+DEBUG   2017-12-06 10:44:33,826 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - Upload file servlet here: Game name::>fd
+DEBUG   2017-12-06 10:44:33,826 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - Upload file servlet: versionName name::>v1.1.0
+DEBUG   2017-12-06 10:44:33,826 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - Upload file servlet: alpha name::>0.01
+DEBUG   2017-12-06 10:44:33,826 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - numberType::>replacement
+DEBUG   2017-12-06 10:44:33,826 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - Upload file servlet: numbersPerDraw name::>
+DEBUG   2017-12-06 10:44:33,828 [http-nio-0.0.0.0-8090-exec-2] upload.UploadFileServlet  - Upload file servlet: testName name::>[Ljava.lang.String;@56aa7b9b
+DEBUG   2017-12-06 10:44:33,967 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.InputBaseData  - size of converted array of scaled data is:Input base data::>20
+DEBUG   2017-12-06 10:44:33,967 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.InputBaseData  - Input base data - min array::>1.0
+DEBUG   2017-12-06 10:44:33,967 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.InputBaseData  - Input base data - max array::>5.0
+DEBUG   2017-12-06 10:44:33,967 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.InputBaseData  - In interpretScaledData of Inputbasedata
+DEBUG   2017-12-06 10:44:33,967 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.MedianRunsTest  - Here in Median Runs test
+DEBUG   2017-12-06 10:44:33,968 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.MedianRunsTest  - alpha_level::>0.01
+DEBUG   2017-12-06 10:44:33,984 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.MedianRunsTest  - medianIndex::>10
+DEBUG   2017-12-06 10:44:33,984 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.MedianRunsTest  - median::>3.0
+DEBUG   2017-12-06 10:44:33,984 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.MedianRunsTest  - totalNumberOfRuns::>11
+DEBUG   2017-12-06 10:44:33,984 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.MedianRunsTest  - totalNumberOfRunsAboveMedian::>13
+DEBUG   2017-12-06 10:44:33,984 [http-nio-0.0.0.0-8090-exec-2] scaleddatamathstests.MedianRunsTest  - totalNumberOfRunsBelowMediancomm::>7
+DEBUG   2017-12-06 10:44:34,028 [http-nio-0.0.0.0-8090-exec-1] graphs.GraphResult  - In Graph Result - Result from tests received::>18
+DEBUG   2017-12-06 10:44:34,099 [http-nio-0.0.0.0-8090-exec-1] graphs.GraphResult  - Pass test::>1
+DEBUG   2017-12-06 10:44:34,099 [http-nio-0.0.0.0-8090-exec-1] graphs.GraphResult  - Fail test::>0
+DEBUG   2017-12-06 10:44:34,099 [http-nio-0.0.0.0-8090-exec-1] graphs.GraphResult  - Not run test::>17
+DEBUG   2017-12-08 11:56:21,395 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet here: Game name::>sd
+DEBUG   2017-12-08 11:56:21,415 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: versionName name::>sd
+DEBUG   2017-12-08 11:56:21,415 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: alpha name::>0.01
+DEBUG   2017-12-08 11:56:21,434 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - numberType::>replacement
+DEBUG   2017-12-08 11:56:21,435 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: numbersPerDraw name::>
+DEBUG   2017-12-08 11:56:21,443 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: testName name::>[Ljava.lang.String;@5fb88e00
+DEBUG   2017-12-08 11:56:22,011 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - size of converted array of scaled data is:Input base data::>30
+DEBUG   2017-12-08 11:56:22,011 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - Input base data - min array::>1.0
+DEBUG   2017-12-08 11:56:22,011 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - Input base data - max array::>10.0
+DEBUG   2017-12-08 11:56:22,011 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - In interpretScaledData of Inputbasedata
+DEBUG   2017-12-08 11:56:22,011 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - Here in chi-square test
+DEBUG   2017-12-08 11:56:22,011 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - alpha_level::>0.01
+DEBUG   2017-12-08 11:56:22,011 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - total numbers::>10
+DEBUG   2017-12-08 11:56:22,011 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - numbers length::>30
+DEBUG   2017-12-08 11:56:22,036 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - Sum Chi-square::>8.666666666666666
+DEBUG   2017-12-08 11:56:22,112 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - p_value::>0.46859501182430763
+DEBUG   2017-12-08 11:56:22,112 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - Here in Runs up runs down test
+DEBUG   2017-12-08 11:56:22,112 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - alpha_level0.01
+DEBUG   2017-12-08 11:56:22,112 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - In calculate number of runs:
+DEBUG   2017-12-08 11:56:22,112 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - totalNumberOfRuns:17.0
+DEBUG   2017-12-08 11:56:22,112 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - scaled data size30.0
+DEBUG   2017-12-08 11:56:22,112 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - mean:19.666666666666668
+DEBUG   2017-12-08 11:56:22,112 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - sigma_square5.011111111111111
+DEBUG   2017-12-08 11:56:22,112 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - Z_score:-1.1912467150602801
+DEBUG   2017-12-08 11:56:22,112 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - In interpretResult of runs up and runs down
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.CollisionTest  - Here in Collision Test
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.CollisionTest  - alpha_level::>0.01
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.CollisionTest  - d::>10
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.CollisionTest  - m::>10
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.CollisionTest  - tsangBalls::>12
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.CollisionTest  - n::>2
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.CollisionTest  - expected::>7.2
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.CollisionTest  - resultChi::>true
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.CollisionTest  - Sum Chi-square for Colllision Test::>1.2857142857142858
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.MedianRunsTest  - Here in Median Runs test
+DEBUG   2017-12-08 11:56:22,116 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.MedianRunsTest  - alpha_level::>0.01
+DEBUG   2017-12-08 11:56:22,120 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.MedianRunsTest  - medianIndex::>15
+DEBUG   2017-12-08 11:56:22,120 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.MedianRunsTest  - median::>6.0
+DEBUG   2017-12-08 11:56:22,120 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.MedianRunsTest  - totalNumberOfRuns::>15
+DEBUG   2017-12-08 11:56:22,120 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.MedianRunsTest  - totalNumberOfRunsAboveMedian::>16
+DEBUG   2017-12-08 11:56:22,120 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.MedianRunsTest  - totalNumberOfRunsBelowMediancomm::>14
+DEBUG   2017-12-08 11:56:22,760 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - In Graph Result - Result from tests received::>18
+DEBUG   2017-12-08 11:56:22,760 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - Pass test::>4
+DEBUG   2017-12-08 11:56:22,760 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - Fail test::>0
+DEBUG   2017-12-08 11:56:22,760 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - Not run test::>14
+DEBUG   2017-12-11 11:41:18,514 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet here: Game name::>okay
+DEBUG   2017-12-11 11:41:18,538 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: versionName name::>v1.1.0
+DEBUG   2017-12-11 11:41:18,538 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: alpha name::>0.01
+DEBUG   2017-12-11 11:41:18,538 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - numberType::>replacement
+DEBUG   2017-12-11 11:41:18,538 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: numbersPerDraw name::>
+DEBUG   2017-12-11 11:41:18,562 [http-nio-0.0.0.0-8090-exec-3] upload.UploadFileServlet  - Upload file servlet: testName name::>[Ljava.lang.String;@7b0b1f55
+DEBUG   2017-12-11 11:41:19,866 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - size of converted array of scaled data is:Input base data::>30
+DEBUG   2017-12-11 11:41:19,866 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - Input base data - min array::>1.0
+DEBUG   2017-12-11 11:41:19,866 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - Input base data - max array::>10.0
+DEBUG   2017-12-11 11:41:19,866 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.InputBaseData  - In interpretScaledData of Inputbasedata
+DEBUG   2017-12-11 11:41:19,866 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - Here in chi-square test
+DEBUG   2017-12-11 11:41:19,870 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - alpha_level::>0.01
+DEBUG   2017-12-11 11:41:19,870 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - total numbers::>10
+DEBUG   2017-12-11 11:41:19,870 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - numbers length::>30
+DEBUG   2017-12-11 11:41:19,994 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - Sum Chi-square::>8.666666666666666
+DEBUG   2017-12-11 11:41:20,342 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.ChiSquareGizmoTest  - p_value::>0.46859501182430763
+DEBUG   2017-12-11 11:41:20,342 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - Here in Runs up runs down test
+DEBUG   2017-12-11 11:41:20,342 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - alpha_level0.01
+DEBUG   2017-12-11 11:41:20,346 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - In calculate number of runs:
+DEBUG   2017-12-11 11:41:20,346 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - totalNumberOfRuns:17.0
+DEBUG   2017-12-11 11:41:20,346 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - scaled data size30.0
+DEBUG   2017-12-11 11:41:20,346 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - mean:19.666666666666668
+DEBUG   2017-12-11 11:41:20,346 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - sigma_square5.011111111111111
+DEBUG   2017-12-11 11:41:20,346 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - Z_score:-1.1912467150602801
+DEBUG   2017-12-11 11:41:20,346 [http-nio-0.0.0.0-8090-exec-3] scaleddatamathstests.RunsUpRunsDownTest  - In interpretResult of runs up and runs down
+DEBUG   2017-12-11 11:41:22,076 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - In Graph Result - Result from tests received::>18
+DEBUG   2017-12-11 11:41:22,080 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - Pass test::>2
+DEBUG   2017-12-11 11:41:22,080 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - Fail test::>0
+DEBUG   2017-12-11 11:41:22,080 [http-nio-0.0.0.0-8090-exec-4] graphs.GraphResult  - Not run test::>16
+DEBUG   2017-12-11 11:41:27,693 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.InputBaseData  - size of converted array of scaled data is:Input base data::>30
+DEBUG   2017-12-11 11:41:27,693 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.InputBaseData  - Input base data - min array::>1.0
+DEBUG   2017-12-11 11:41:27,693 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.InputBaseData  - Input base data - max array::>10.0
+DEBUG   2017-12-11 11:41:27,693 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.InputBaseData  - In interpretScaledData of Inputbasedata
+DEBUG   2017-12-11 11:41:27,693 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.ChiSquareGizmoTest  - Here in chi-square test
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.ChiSquareGizmoTest  - alpha_level::>0.01
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.ChiSquareGizmoTest  - total numbers::>10
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.ChiSquareGizmoTest  - numbers length::>30
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.ChiSquareGizmoTest  - Sum Chi-square::>8.666666666666666
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.ChiSquareGizmoTest  - p_value::>0.46859501182430763
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.RunsUpRunsDownTest  - Here in Runs up runs down test
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.RunsUpRunsDownTest  - alpha_level0.01
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.RunsUpRunsDownTest  - In calculate number of runs:
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.RunsUpRunsDownTest  - totalNumberOfRuns:18.0
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.RunsUpRunsDownTest  - scaled data size30.0
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.RunsUpRunsDownTest  - mean:19.666666666666668
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.RunsUpRunsDownTest  - sigma_square5.011111111111111
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.RunsUpRunsDownTest  - Z_score:-0.7445291969126753
+DEBUG   2017-12-11 11:41:27,697 [http-nio-0.0.0.0-8090-exec-6] scaleddatamathstests.RunsUpRunsDownTest  - In interpretResult of runs up and runs down

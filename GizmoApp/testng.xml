@@ -1,0 +1,30 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+
+<suite name="GizmoAppSuit1" verbose="1" > 
+
+  <test name="Gizmo1" > 
+
+    <classes> 
+		<class name="com.org.learningMaven.smokeTests" /> 	  
+    </classes> 
+
+  </test> 
+
+  <test name="Gizmo2" > 
+
+    <classes> 
+    	<class name="com.org.learningMaven.GizmoApplication" />    
+    </classes> 
+
+  </test> 
+
+  <test name="Gizmo3" > 
+
+    <classes> 
+    	<class name="com.org.learningMaven.sanityTests" />
+    </classes> 
+
+  </test> 
+
+</suite>      
