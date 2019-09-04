@@ -1,0 +1,19 @@
+version: '3.3'
+
+volumes:
+  MyTomcatVolume:
+
+services:
+  tomcat:
+    image: billygoo/tomcat8-jdk8
+    build: .
+    restart: unless-stopped
+    ports:
+      - target: 8096
+        published: 8096
+        protocol: tcp
+        mode: host
+    volumes:
+      - MyTomcatVolume:/var/lib/docker/volumes/MyTomcatVolume/_data
+      - /var/run/docker.sock:/var/run/docker.sock
+    container_name: TomcateContainer
