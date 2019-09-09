@@ -16,15 +16,7 @@ node{
                        remote: "https://192.168.192.143/svn/DevOps/MavenGizmoWeb/"]], 
           workspaceUpdater: [$class: 'UpdateUpdater']])
    
-	stage("Unit test")
-	{
-	    sh "./ test"
-	} 
-
-        stage("Package")
-	{
-	    sh "./ build"
-	}
+	
 
         stage('Build Image')
 	{
