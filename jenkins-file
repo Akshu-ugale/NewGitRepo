@@ -1,19 +1,40 @@
-pipeline {
-    agent {
-        docker {
-            image 'billygoo/tomcat8-jdk8'
-            args '-p 3000:3000 -p 5000:5000' 
+node{
+    
+    checkout([$class: 'SubversionSCM', 
+          additionalCredentials: [], 
+          excludedCommitMessages: '', 
+          excludedRegions: '', 
+          excludedRevprop: '', 
+          excludedUsers: '', 
+          filterChangelog: false, 
+          ignoreDirPropChanges: false, 
+          includedRegions: '', 
+          locations: [[credentialsId: 'fba7b58b-59d3-4e04-bb28-e6165f915241', 
+                       depthOption: 'infinity', 
+                       ignoreExternalsOption: true, 
+                       local: 'cable_branch', 
+                       remote: "https://192.168.192.143/svn/DevOps/MavenGizmoWeb/"]], 
+          workspaceUpdater: [$class: 'UpdateUpdater']])
+   
+	stage("Unit test")
+	{
+	    sh "./ test"
+	} 
+
+        stage("Package")
+	{
+	    sh "./ build"
+	}
+
+        stage('Build Image')
+	{
+           sh "docker build -t akshu@123/myContainer ."
         }
-    }
-    environment {
-        CI = 'true'
-    }
-    stages {
-        stage('Build Image') {
-            steps {
-                echo 'hello'
-            }
-        }
-       
-    }
+
+	stage("Docker push")
+        {
+          sh "docker login -u akshu@123 -p AkshuG@123"
+          sh "docker push akshu@123/myContainer"
+	}   
 }
+
