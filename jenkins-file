@@ -29,13 +29,13 @@ node{
 
         stage('Build Image')
 	{
-           sh "docker build -t akshu@123/newrepo123 ."
+           sh "docker build -t akshu@123/myContainer ."
         }
 
 	stage("Docker push")
         {
           sh "docker login -u akshu@123 -p AkshuG@123"
-          sh "docker push akshu@123/newrepo123"
+          sh "docker push akshu@123/myContainer"
 	}   
 }
 
